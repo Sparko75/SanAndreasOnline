@@ -37,7 +37,6 @@ or through the mod's own relay connection. Whatever the source, an update instal
 
 ## Privacy
 
-- No microphone, ever. The mod never runs programs or opens windows on your PC.
 - Problem reports (errors, freezes, crashes - with where it crashed) help fix the mod. They come with your nickname,
   so the developer can find your logs and help you - never your IP address, folder names or chat. Settings > Logs
   turns them off. The developer can also ask you in game for your logs: nothing is sent unless you accept.
