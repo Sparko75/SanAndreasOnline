@@ -1,0 +1,21 @@
+San Andreas Online
+Copyright (c) 2026 [TFM]Sparko75. All rights reserved.
+
+San Andreas Online - its code, its compiled files, its pictures, sounds and texts, and its online services (the relay,
+Pulse, SAO Media, FaceTime) - was created by [TFM]Sparko75 and is his property.
+
+You may:
+  - download San Andreas Online from its official sources and use it to play.
+
+You may not, without the written permission of [TFM]Sparko75:
+  - copy, re-upload, share or distribute San Andreas Online or any part of it, modified or not;
+  - modify it, decompile it, reverse-engineer it, or make other works from it;
+  - present it, or any part of it, as your own work, or remove or change its author's name;
+  - sell it, or use it or its online services for any commercial purpose.
+
+San Andreas Online checks its own files: files that are not the official ones are replaced by them.
+
+Third-party parts keep their own licences: MoonLoader's standard libraries and mimgui (MIT licence, their notices are
+in their files).
+
+San Andreas Online is provided as it is, without any warranty. It is not affiliated with Rockstar Games or SA-MP.
