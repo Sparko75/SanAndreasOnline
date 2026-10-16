@@ -13,6 +13,12 @@ needed on the SA-MP server, everyone who wants to play together installs it.
 - **Interactions** - hold H next to a player: handshake, high five, dance together, hold hands...
 - **Every language** - names, chat and typing in any script; Arabic and Hebrew read right to left
 
+> [!IMPORTANT]
+> **Download San Andreas Online only from this repository's [Releases](../../releases/latest).** Never take a zip of
+> the mod from anywhere else - another website, a Discord, a video, a friend's upload. The first releases were open
+> source: anyone could change their code and put anything inside. For your security the mod is now compiled and every
+> update is signed - only the copy from here is the real one, and it updates itself from official sources only.
+
 ## Install
 
 1. Download the latest **SanAndreasOnline_vX.Y.Z.zip** from [Releases](../../releases/latest).
@@ -26,8 +32,8 @@ the zip's `optional` folder). No installer, no program of its own: Lua scripts a
 ## Updates
 
 The game looks for updates by itself and **asks** you first ("Update available - update now?", then "reload now?").
-It downloads them from this repository's releases - or, if GitHub cannot be reached, from the project's relay server
-or through the mod's own relay connection. Whatever the source, an update installs only if:
+It downloads them from GitHub ([SanAndreasOnline-updates](https://github.com/Sparko75/SanAndreasOnline-updates)) -
+or, if GitHub cannot be reached, from the project's relay server or through the mod's own relay connection. Whatever the source, an update installs only if:
 
 - `manifest.sig` is a valid ECDSA P-256 signature of `manifest.json` by the key built into the mod (checked by
   Windows' own cryptography) - releases are signed on the release PC only; neither GitHub nor the relay can make one
