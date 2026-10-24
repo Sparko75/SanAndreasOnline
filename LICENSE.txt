@@ -16,6 +16,8 @@ You may not, without the written permission of [TFM]Sparko75:
 San Andreas Online checks its own files: files that are not the official ones are replaced by them.
 
 Third-party parts keep their own licences: MoonLoader's standard libraries and mimgui (MIT licence, their notices are
-in their files).
+in their files); Bounce mode ports parts of SABounce (MIT licence - Copyright (c) 2026 ViceBounce contributors,
+Copyright (c) 2026 SABounce contributors (GTA San Andreas port) - its notice in lib/sao/fun/bouncebeat.lua and
+bouncedraw.lua).
 
 San Andreas Online is provided as it is, without any warranty. It is not affiliated with Rockstar Games or SA-MP.
